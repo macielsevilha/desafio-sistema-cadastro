@@ -20,4 +20,4 @@
 <p>5 - Abra outra janela do terminal e executa as migrations</p>
 <p>6 - comando: php artisan migrate --force</p>
 
-<p><strong>Pronto!</strong> agora o projeto está rodando na sua máquina (:</p>
+<p><strong>Pronto!</strong> agora o projeto está rodando na sua máquina </p>
